@@ -1,4 +1,4 @@
-# Amazon-Clone-HTML-CSS
+# Amazon-Clone
 
 This is a basic Clone of Amazon Website by usin HTML, CSS...
 
